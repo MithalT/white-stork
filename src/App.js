@@ -40,7 +40,7 @@ function App() {
       dispatch(uiActions.showNotification({
         status: 'error',
         title: 'Error',
-        message: 'sending cart data Failedddd !!'
+        message: 'sending cart data Failedddd !!!!!!!!!'
       }));
     })
   }
